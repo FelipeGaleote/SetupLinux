@@ -6,9 +6,14 @@
     Desktop: Mint-Y-Dark-Aqua
 
 ---Painel---
-Ocultar painel de maneira inteligente
-Largura do painel: 56
+    Ocultar painel de maneira inteligente
+    Largura do painel: 56
 
 ---Applets---
-Gnote
-TextToSpeechApplet (substituir o voice command por "espeak -vpt+m5 -a 100 -p 50 -s 175" para funcionar em pt-br)
+    Gnote
+    TextToSpeechApplet (substituir o voice command por "espeak -vpt+m5 -a 100 -p 50 -s 175" para funcionar em pt-br)
+
+---Comportamento---
+    adicionar "cinnamon-screensaver-command -l" no cantos de atalho direito de baixo
+    entrar nas configuracoes de acessibilidade>visual>ativar zoom(modo lente)
+    entrar nas configuracoes de acessibilidade>mouse>clique ao sobrepor(atraso um pouco menor que medio)
