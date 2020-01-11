@@ -44,3 +44,9 @@ git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/theme
 
 #---pbcopy--- 
 sudo apt install xclip
+
+#---gnote---
+sudo apt-get install gnote
+
+#---espeak--- TTS
+sudo apt-get install espeak

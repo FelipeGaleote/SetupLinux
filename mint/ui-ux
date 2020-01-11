@@ -8,3 +8,7 @@
 ---Painel---
 Ocultar painel de maneira inteligente
 Largura do painel: 56
+
+---Applets---
+Gnote
+TextToSpeechApplet (substituir o voice command por "espeak -vpt+m5 -a 100 -p 50 -s 175" para funcionar em pt-br)
