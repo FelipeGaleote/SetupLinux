@@ -1,2 +1,2 @@
 # SetupLinux(Mint)
-Scripts de configuracao e macetes para o linux Mint/Debian
+Scripts de configuracao e ferramentas para o linux Mint/Debian
